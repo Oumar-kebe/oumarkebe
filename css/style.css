@@ -861,4 +861,12 @@ h3.my-profession
     }
 
 }
+@media (max-width: 200px) {
+    h3.hello,
+    h3.hello span,
+    h3.my-profession{
+        font-size: 16px;
+    }
+
+}
 
