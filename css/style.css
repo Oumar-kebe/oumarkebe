@@ -857,7 +857,7 @@ h3.my-profession
     h3.hello,
     h3.hello span,
     h3.my-profession{
-        font-size: 15px;
+        font-size: 12px;
     }
 
 }
@@ -865,7 +865,7 @@ h3.my-profession
     h3.hello,
     h3.hello span,
     h3.my-profession{
-        font-size: 13px;
+        font-size: 11px;
     }
 
 }
