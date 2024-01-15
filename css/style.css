@@ -861,7 +861,7 @@ h3.my-profession
     }
 
 }
-@media (max-width: 280px) {
+@media (max-width: 300px) {
     h3.hello,
     h3.hello span,
     h3.my-profession{
